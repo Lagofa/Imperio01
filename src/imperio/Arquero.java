@@ -6,6 +6,7 @@ public class Arquero extends Unidad {
 	private static final int RANGO_MINIMO = 5;
 	private static final int RANGO_MAXIMO = 25;
 	private int flechas;
+	
 	private static final int CANTIDAD_FLECHAS = 12;
 
 	public Arquero(Posicion posicion) {
